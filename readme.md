@@ -1,8 +1,3 @@
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <br/>
 <p align="center">
   <img width="350" src="assets/aws-logo.png" alt="aws logo" />
