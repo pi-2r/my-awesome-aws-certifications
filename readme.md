@@ -551,6 +551,7 @@ chapter | description
 
 -  [CAF_Completed_Action_Plan](https://d1.awsstatic.com/professional-services/caf/CAF_Completed_Action_Plan.e120704465f86b86d1509dee481e9e5e995d9aaa.png)
 
+- [The Frugal Architect](https://www.thefrugalarchitect.com/)
 
 # Whitepapers & guides
 
