@@ -48,14 +48,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 </p>
 
 
-------------
-AWS
+
+# AWS
+
 ------------
 -  [Services et produits de cloud Amazon | AWS](https://aws.amazon.com/fr/)
 
 -  [AWS | Qu'est-ce que le cloud computing – Les avantages du cloud](https://aws.amazon.com/fr/what-is-cloud-computing/)
 
--  [Qu'est-ce qu'AWS ?](https://aws.amazon.com/fr/what-is-aws/)
+-  [Qu'est-ce qu'AWS ?](https://aws.amazon.com/fr/what-is-aws/)
 
 -  [Offres et services gratuits | Solution de cloud | Amaazon Web Services](https://aws.amazon.com/fr/free/)
 
@@ -63,7 +64,7 @@ AWS
 
 -  [Produits du cloud](https://aws.amazon.com/fr/products/)
 
--  [Types d'instances Amazon EC2 – Amazon Web Services (AWS)](https://aws.amazon.com/fr/ec2/instance-types/)
+-  [Types d'instances Amazon EC2 – Amazon Web Services (AWS)](https://aws.amazon.com/fr/ec2/instance-types/)
 
 -  [Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
 
@@ -73,9 +74,9 @@ AWS
 
 -  [Protection des données | Sécurité dans le cloud | AWS](https://aws.amazon.com/fr/security/)
 
--  [Modèle de responsabilité partagée – Amazon Web Services (AWS)](https://aws.amazon.com/fr/compliance/shared-responsibility-model/)
+-  [Modèle de responsabilité partagée – Amazon Web Services (AWS)](https://aws.amazon.com/fr/compliance/shared-responsibility-model/)
 
--  [Conformité du cloud – Amazon Web Services (AWS)](https://aws.amazon.com/fr/compliance/)
+-  [Conformité du cloud – Amazon Web Services (AWS)](https://aws.amazon.com/fr/compliance/)
 
 -  [Compliance Center – Amazon Web Services](https://www.atlas.aws/)
 
@@ -85,9 +86,9 @@ AWS
 
 -  [Post-Event Summaries](https://aws.amazon.com/fr/premiumsupport/technology/pes/)
 
--  [Derniers bulletins - Amazon Web Services (AWS)](https://aws.amazon.com/fr/security/security-bulletins/?nc=sn&loc=6&card-body.sort-by=item.additionalFields.bulletinDateSort&card-body.sort-order=desc)
+-  [Derniers bulletins - Amazon Web Services (AWS)](https://aws.amazon.com/fr/security/security-bulletins/?nc=sn&loc=6&card-body.sort-by=item.additionalFields.bulletinDateSort&card-body.sort-order=desc)
 
--  [AWS Training and Certification : cours et programmes sur les compétences Cloud](https://aws.amazon.com/fr/training/)
+-  [AWS Training and Certification : cours et programmes sur les compétences Cloud](https://aws.amazon.com/fr/training/)
 
 -  [Cloud hybride avec AWS | Amazon Web Services](https://aws.amazon.com/fr/hybrid/)
 
@@ -95,15 +96,15 @@ AWS
 
 -  [Vérifications des bonnes pratiques | Recommandation pour conserver la conformité | AWS Support](https://aws.amazon.com/fr/premiumsupport/technology/trusted-advisor/best-practice-checklist/)
 
--  [AWS Educate](https://aws.amazon.com/fr/education/awseducate/?nc2=h_ql_exm_edu)
+-  [AWS Educate](https://aws.amazon.com/fr/education/awseducate/?nc2=h_ql_exm_edu)
 
--  [AWS Academy](https://aws.amazon.com/fr/training/awsacademy/)
+-  [AWS Academy](https://aws.amazon.com/fr/training/awsacademy/)
 
 -  [Technologie et programmes de support pour AWS | AWS Support](https://aws.amazon.com/fr/premiumsupport/)
 
 -  [AWS Support](https://console.aws.amazon.com/support/home/)
 
--  [AWS Managed Services](https://aws.amazon.com/fr/managed-services/?nc2=h_ql_ce_ms)
+-  [AWS Managed Services](https://aws.amazon.com/fr/managed-services/?nc2=h_ql_ce_ms)
 
 -  [AWS Professional services](https://aws.amazon.com/fr/professional-services/?nc2=h_ql_ce_ps)
 
@@ -130,7 +131,7 @@ Use cases
 
 -  [Samsung Heavy Industries Case Study - cost savings](https://aws.amazon.com/fr/solutions/case-studies/samsung-heavy-industries/)
 
--  [Etude de cas AWS : AdRoll - Staff productivity](https://aws.amazon.com/fr/solutions/case-studies/adroll/)
+-  [Etude de cas AWS : AdRoll - Staff productivity](https://aws.amazon.com/fr/solutions/case-studies/adroll/)
 
 -  [Étude de cas MedStar Health - Operational resilience](https://aws.amazon.com/fr/solutions/case-studies/medstar-health/)
 
@@ -158,25 +159,25 @@ AWS more
 
 -  [Modernization](https://aws.amazon.com/fr/enterprise/modernization/)
 
--  [Que sont les microservices ? | AWS](https://aws.amazon.com/fr/microservices/)
+-  [Que sont les microservices ? | AWS](https://aws.amazon.com/fr/microservices/)
 
 -  [Conteneurs sur AWS](https://aws.amazon.com/fr/containers/)
 
--  [Calcul sans serveur – Amazon Web Services](https://aws.amazon.com/fr/serverless/)
+-  [Calcul sans serveur – Amazon Web Services](https://aws.amazon.com/fr/serverless/)
 
 -  [Lacs de données et analyses sur AWS - Amazon Web Services](https://aws.amazon.com/fr/big-data/datalakes-and-analytics/)
 
 -  [AWS Activate pour les start-ups, les fondateurs et les chefs d’entreprise](https://aws.amazon.com/fr/activate/)
 
--  [Amazon Web Services – AWS dans l'Entreprise](https://aws.amazon.com/fr/enterprise/)
+-  [Amazon Web Services – AWS dans l'Entreprise](https://aws.amazon.com/fr/enterprise/)
 
--  [AWS Toolkit for Azure DevOps - Amazon Web Services](https://aws.amazon.com/fr/vsts/)
+-  [AWS Toolkit for Azure DevOps - Amazon Web Services](https://aws.amazon.com/fr/vsts/)
 
 -  [AWS pour les organisations non gouvernementales et à but non lucratif](https://aws.amazon.com/fr/government-education/nonprofits/)
 
 -  [AWS et le secteur public](https://aws.amazon.com/fr/government-education/)
 
--  [FAQ sur AWS Certification](https://aws.amazon.com/fr/certification/faqs/)
+-  [FAQ sur AWS Certification](https://aws.amazon.com/fr/certification/faqs/)
 
 -  [AWS Elemental | Perfecting the Media Experience](https://www.elemental.com/)
 
@@ -200,7 +201,7 @@ AWS more
 
 -  [Migration Partner Solutions](https://aws.amazon.com/fr/migration/partner-solutions/)
 
--  [Ligue AWS DeepRacer](https://aws.amazon.com/fr/deepracer/league/)
+-  [Ligue AWS DeepRacer](https://aws.amazon.com/fr/deepracer/league/)
 
 -  [Modern Applications | Serverless, Microservices, Containers, CI/CD | AWS](https://aws.amazon.com/fr/modern-apps/)
 
@@ -214,7 +215,7 @@ AWS more
 
 -  [Machine Learning with AWS Fargate](https://pages.awscloud.com/fargate-machine-learning.html)
 
--  [Migration de données dans le cloud sur AWS | Amazon Web Services](https://aws.amazon.com/fr/cloud-data-migration/)
+-  [Migration de données dans le cloud sur AWS | Amazon Web Services](https://aws.amazon.com/fr/cloud-data-migration/)
 
 -  [Solutions for AWS Control Tower in AWS Marketplace](https://aws.amazon.com/marketplace/solutions/control-tower/)
 
@@ -228,11 +229,11 @@ AWS more
 
 -  [Internet of Things with AWS](https://pages.awscloud.com/iot-connected-home-ebook-internet-of-things.html?nc2=h_ql_sol_use_r5)
 
--  [Migration de données vers le cloud | Amazon Web Services](https://aws.amazon.com/fr/cloud-migration/)
+-  [Migration de données vers le cloud | Amazon Web Services](https://aws.amazon.com/fr/cloud-migration/)
 
 -  [8 Business Drivers That Motivate Cloud Migrations](https://pages.awscloud.com/GLOBAL-ln-GC-500-8-migration-business-drivers-2020-learn.html)
 
--  [Outils de gestion AWS - Amazon Web Services (AWS)](https://aws.amazon.com/fr/products/management-tools/)
+-  [Outils de gestion AWS - Amazon Web Services (AWS)](https://aws.amazon.com/fr/products/management-tools/)
 
 -  [Migration Evaluator - Développer un cas d’utilisation pour AWS - Amazon Web Services](https://aws.amazon.com/fr/migration-evaluator/)
 
@@ -252,7 +253,7 @@ AWS more
 
 -  [Canada DigiGov Program](https://aws.amazon.com/fr/government-education/digital-government-program/)
 
--  [AWS Executive Insights : France](https://aws.amazon.com/fr/executive-insights/france/)
+-  [AWS Executive Insights : France](https://aws.amazon.com/fr/executive-insights/france/)
 
 -  [AWS is How](https://aws.amazon.com/fr/awsishow/)
 
@@ -370,7 +371,7 @@ Amzn pub
 
 -  [Merch by Amazon](https://merch.amazon.com/landing)
 
--  [Amazon Advertising](https://advertising.amazon.fr/)
+-  [Amazon Advertising](https://advertising.amazon.fr/)
 
 -  [Amazon.com Associates Central](https://affiliate-program.amazon.com/)
 
@@ -496,15 +497,15 @@ Architecture
 ------------
 -  [Exemples d'architectures de référence, diagrammes et bonnes pratiques](https://aws.amazon.com/fr/architecture/)
 
--  [Livres blancs et guides AWS](https://aws.amazon.com/fr/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
+-  [Livres blancs et guides AWS](https://aws.amazon.com/fr/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
 
--  [AWS Well-Architected – Créer des applications cloud sécurisées et efficaces](https://aws.amazon.com/fr/architecture/well-architected/)
+-  [AWS Well-Architected – Créer des applications cloud sécurisées et efficaces](https://aws.amazon.com/fr/architecture/well-architected/)
 
 -  [AWS Well-Architected Framework - AWS Well-Architected Framework](https://wa.aws.amazon.com/)
 
 -  [Analytics Lens - wellarchitected-Analytics-Lens.pdf](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Analytics-Lens.pdf)
 
--  [Déploiements Quick Start – Amazon Web Services (AWS)](https://aws.amazon.com/fr/quickstart/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc)
+-  [Déploiements Quick Start – Amazon Web Services (AWS)](https://aws.amazon.com/fr/quickstart/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc)
 
 -  [L'Amazon Builders' Library](https://aws.amazon.com/fr/builders-library/)
 
@@ -645,6 +646,8 @@ Ressources
 -  [Amazon QuickSight Gallery - Business Intelligence Service - Amazon Web Services](https://aws.amazon.com/fr/quicksight/gallery/?nc=sn&loc=8)
 
 -  [Welcome to Serverless Land](https://serverlessland.com/)
+
+- [Application Load Balancers Now Support Multiple TLS Certificates With Smart Selection Using SNI](https://aws.amazon.com/fr/blogs/aws/new-application-load-balancer-sni/)
 
 ------------
 Workshops & more
@@ -824,11 +827,11 @@ Solutions & mores
 
 -  [GitHub - awslabs/cdk8s: Define Kubernetes native apps and abstractions using object-oriented programming](https://github.com/awslabs/cdk8s)
 
--  [AWS WAF Security Automations | Solutions AWS](https://aws.amazon.com/fr/solutions/implementations/aws-waf-security-automations/)
+-  [AWS WAF Security Automations | Solutions AWS](https://aws.amazon.com/fr/solutions/implementations/aws-waf-security-automations/)
 
 -  [Limit Monitor | Implémentations | AWS Solutions](https://aws.amazon.com/fr/solutions/implementations/limit-monitor/)
 
--  [Solution AWS de données de streaming pour Amazon Kinesis | Implémentations | Solution AWS](https://aws.amazon.com/fr/solutions/implementations/aws-streaming-data-solution-for-amazon-kinesis/)
+-  [Solution AWS de données de streaming pour Amazon Kinesis | Implémentations | Solution AWS](https://aws.amazon.com/fr/solutions/implementations/aws-streaming-data-solution-for-amazon-kinesis/)
 
 -  [aws-samples/aws-s3-proxy-farm: Solution for providing access to a private S3 Static Website from remote networks via a VPC endpoint](https://github.com/aws-samples/aws-s3-proxy-farm)
 
@@ -836,7 +839,7 @@ Solutions & mores
 
 -  [aws-samples/aws-vpc-traffic-mirroring-source-automation](https://github.com/aws-samples/aws-vpc-traffic-mirroring-source-automation)
 
--  [AWS Perspective | Implémentations | Solutions AWS](https://aws.amazon.com/fr/solutions/implementations/aws-perspective/)
+-  [AWS Perspective | Implémentations | Solutions AWS](https://aws.amazon.com/fr/solutions/implementations/aws-perspective/)
 
 -  [amcginlay/sns-webserver: Build a NodeJS webserver to support SNS http subscriptions](https://github.com/amcginlay/sns-webserver)
 
@@ -861,13 +864,13 @@ Cost Optimization
 
 -  [Instance Scheduler | AWS Solutions](https://aws.amazon.com/fr/solutions/implementations/instance-scheduler/)
 
--  [Optimisation des coûts | bon dimensionnement EC2 | Solutions AWS](https://aws.amazon.com/fr/solutions/cost-optimization-ec2-right-sizing/)
+-  [Optimisation des coûts | bon dimensionnement EC2 | Solutions AWS](https://aws.amazon.com/fr/solutions/cost-optimization-ec2-right-sizing/)
 
--  [Surveillance de l’optimisation des coûts | Solutions AWS](https://aws.amazon.com/fr/solutions/cost-optimization-monitor/)
+-  [Surveillance de l’optimisation des coûts | Solutions AWS](https://aws.amazon.com/fr/solutions/cost-optimization-monitor/)
 
--  [Amazon WorkSpaces Cost Optimizer | Solutions AWS](https://aws.amazon.com/fr/solutions/amazon-workspaces-cost-optimizer/)
+-  [Amazon WorkSpaces Cost Optimizer | Solutions AWS](https://aws.amazon.com/fr/solutions/amazon-workspaces-cost-optimizer/)
 
--  [Limit Monitor | Solutions AWS](https://aws.amazon.com/fr/solutions/limit-monitor/?did=sl_card&trk=sl_card)
+-  [Limit Monitor | Solutions AWS](https://aws.amazon.com/fr/solutions/limit-monitor/?did=sl_card&trk=sl_card)
 
 -  [Optimizing the cost of running AWS Elastic Beanstalk Workloads | AWS DevOps Blog](https://aws.amazon.com/fr/blogs/devops/optimizing-the-cost-of-running-aws-elastic-beanstalk-workloads/?nc1=b_rp)
 
@@ -994,7 +997,7 @@ AWS Articles & more
 
 -  [Overlay Multicast in Amazon Virtual Private Cloud - AWS Articles](https://aws.amazon.com/fr/articles/overlay-multicast-in-amazon-virtual-private-cloud/)
 
--  [DNS inverse pour Route 53](https://aws.amazon.com/fr/premiumsupport/knowledge-center/route-53-reverse-dns/)
+-  [DNS inverse pour Route 53](https://aws.amazon.com/fr/premiumsupport/knowledge-center/route-53-reverse-dns/)
 
 -  [10 Things Serverless Architects Should Know | AWS Architecture Blog](https://aws.amazon.com/fr/blogs/architecture/ten-things-serverless-architects-should-know/)
 
@@ -1040,7 +1043,7 @@ AWS Articles & more
 
 -  [Using Amazon FSx for Windows File Server on EKS Windows Containers | Containers](https://aws.amazon.com/fr/blogs/containers/using-amazon-fsx-for-windows-file-server-on-eks-windows-containers/)
 
--  [Ressources AWS Database Migration Service – Amazon Web Services](https://aws.amazon.com/fr/dms/resources/)
+-  [Ressources AWS Database Migration Service – Amazon Web Services](https://aws.amazon.com/fr/dms/resources/)
 
 -  [CloudFormation Update – CLI + Third-Party Resource Support + Registry | AWS News Blog](https://aws.amazon.com/fr/blogs/aws/cloudformation-update-cli-third-party-resource-support-registry/)
 
@@ -1064,7 +1067,7 @@ AWS Articles & more
 
 -  [New – Amazon S3 Batch Operations | AWS News Blog](https://aws.amazon.com/fr/blogs/aws/new-amazon-s3-batch-operations/)
 
--  [Optimisation des transferts de données vers Amazon S3.](https://aws.amazon.com/fr/premiumsupport/knowledge-center/s3-optimize-transfer/)
+-  [Optimisation des transferts de données vers Amazon S3.](https://aws.amazon.com/fr/premiumsupport/knowledge-center/s3-optimize-transfer/)
 
 -  [Considering a Mass Migration to the Cloud? | AWS Cloud Enterprise Strategy Blog](https://aws.amazon.com/fr/blogs/enterprise-strategy/considering-a-mass-migration-to-the-cloud/)
 
@@ -1074,7 +1077,7 @@ AWS Articles & more
 
 -  [How to set up an outbound VPC proxy with domain whitelisting and content filtering | AWS Security Blog](https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/)
 
--  [Utiliser CloudFront pour diffuser un site Web statique hébergé sur Amazon S3](https://aws.amazon.com/fr/premiumsupport/knowledge-center/cloudfront-serve-static-website/)
+-  [Utiliser CloudFront pour diffuser un site Web statique hébergé sur Amazon S3](https://aws.amazon.com/fr/premiumsupport/knowledge-center/cloudfront-serve-static-website/)
 
 -  [Amazon S3 + Amazon CloudFront: A Match Made in the Cloud | Networking & Content Delivery](https://aws.amazon.com/fr/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/)
 
@@ -1102,7 +1105,7 @@ AWS Articles & more
 
 -  [How to set up an outbound VPC proxy with domain whitelisting and content filtering | AWS Security Blog](https://aws.amazon.com/fr/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/)
 
--  [Utiliser les vérifications de l'état de Route 53 pour le basculement DNS](https://aws.amazon.com/fr/premiumsupport/knowledge-center/route-53-dns-health-checks/)
+-  [Utiliser les vérifications de l'état de Route 53 pour le basculement DNS](https://aws.amazon.com/fr/premiumsupport/knowledge-center/route-53-dns-health-checks/)
 
 -  [New for AWS Lambda – Predictable start-up times with Provisioned Concurrency | AWS Compute Blog](https://aws.amazon.com/fr/blogs/compute/new-for-aws-lambda-predictable-start-up-times-with-provisioned-concurrency/)
 
@@ -1122,13 +1125,13 @@ AWS Articles & more
 
 -  [Understanding Amazon Cognito user pool OAuth 2.0 grants | AWS Mobile Blog](https://aws.amazon.com/fr/blogs/mobile/understanding-amazon-cognito-user-pool-oauth-2-0-grants/)
 
--  [Restaurer ou récupérer une instance Amazon EC2 résiliée](https://aws.amazon.com/fr/premiumsupport/knowledge-center/recovery-terminated-instance/)
+-  [Restaurer ou récupérer une instance Amazon EC2 résiliée](https://aws.amazon.com/fr/premiumsupport/knowledge-center/recovery-terminated-instance/)
 
 -  [Accéder à un système de fichiers EFS depuis un autre compte AWS](https://aws.amazon.com/fr/premiumsupport/knowledge-center/access-efs-across-accounts/)
 
 -  [Create an AMI and cross-Region copy - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/automation-document-sample-bandr.html)
 
--  [Didacticiel : déléguer l'accès entre des comptes AWS à l'aide des rôles IAM - AWS Identity and Access Management](https://docs.aws.amazon.com/fr_fr/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html)
+-  [Didacticiel : déléguer l'accès entre des comptes AWS à l'aide des rôles IAM - AWS Identity and Access Management](https://docs.aws.amazon.com/fr_fr/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html)
 
 -  [Running Cost-effective queue workers with Amazon SQS and Amazon EC2 Spot Instances | AWS Compute Blog](https://aws.amazon.com/fr/blogs/compute/running-cost-effective-queue-workers-with-amazon-sqs-and-amazon-ec2-spot-instances/)
 
@@ -1138,7 +1141,7 @@ AWS Articles & more
 
 -  [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 
--  [StatusCast_Table_of_Nines.jpg (Image JPEG, 649 × 559 pixels)](https://i1.wp.com/galleryr.org/infographics/StatusCast_Table_of_Nines.jpg)
+-  [StatusCast_Table_of_Nines.jpg (Image JPEG, 649 × 559 pixels)](https://i1.wp.com/galleryr.org/infographics/StatusCast_Table_of_Nines.jpg)
 
 -  [Awesome AWS Workshops - Build On!](https://awesome-aws-workshops.com/#ai-and-ml)
 
@@ -1174,7 +1177,7 @@ AWS Articles & more
 
 -  [Understanding Data Transfer in AWS - Last Week in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/)
 
--  [aws-data-transfer-costs.png (Image PNG, 2554 × 1348 pixels) - Redimensionnée (71%)](https://raw.githubusercontent.com/open-guides/og-aws/master/figures/aws-data-transfer-costs.png)
+-  [aws-data-transfer-costs.png (Image PNG, 2554 × 1348 pixels) - Redimensionnée (71%)](https://raw.githubusercontent.com/open-guides/og-aws/master/figures/aws-data-transfer-costs.png)
 
 -  [LexInterceptor — Extend Lex to support over 100 Languages | by Cyrus Wong | Medium](https://medium.com/@wongcyrus/lexinterceptor-extend-lex-to-support-over-100-languages-1e3f950f6986)
 
