@@ -47,11 +47,37 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 </p>
 
+# Table of Contents
+chapter | description
+--- | ---
+[AWS](#aws) | AWS resources
+[Use cases](#use-cases) | Use cases
+[Pricing](#pricing) | pricing resources
+[AWS More](#aws-more) | Mpre info about AWS
+[Independant analysis](#independant-analysis) | Independant analysis
+[AWS Partner Network](#aws-partner-network) | AWS Partner Network
+[Amzn AWS related](#amzn-aws-related) | Amzn AWS related
+[Amzn pub](#amzn-pub) | Amzn pub
+[Principles & standards](#principles--standards) | Principles & standards
+[Architecture](#architecture) | Architecture
+[Whitepapers & guides](#whitepapers--guides) | Whitepapers & guides
+[Ressources](#ressources) | Ressources
+[Workshops & more](#workshops--more) | Workshops & more
+[Solutionn & Mores](#solutions--mores) | Solutions & Mores
+[Cost Optimization](#cost-optimization) | Cost Optimization
+[News](#news) | News
+[Videos](#videos) | Videos
+[AWS Articles & more](#aws-articles--more) | AWS Articles & more
+[/!\ not-AWS official / not supported by AWS](#-not-aws-official--not-supported-by-aws) | /!\ not-AWS official / not supported by AWS
+[lol (obviously not AWS official content) ](#lol-obviously-not-aws-official-content) | lol (obviously not AWS official content)
 
+
+
+
+    
 
 # AWS
 
-------------
 -  [Services et produits de cloud Amazon | AWS](https://aws.amazon.com/fr/)
 
 -  [AWS | Qu'est-ce que le cloud computing – Les avantages du cloud](https://aws.amazon.com/fr/what-is-cloud-computing/)
@@ -124,9 +150,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 -  [A propos d'AWS](https://aws.amazon.com/fr/about-aws/)
 
-------------
-Use cases
-------------
+
+# Use cases
+
 -  [Use cases](https://aws.amazon.com/solutions/case-studies)
 
 -  [Samsung Heavy Industries Case Study - cost savings](https://aws.amazon.com/fr/solutions/case-studies/samsung-heavy-industries/)
@@ -139,18 +165,18 @@ Use cases
 
 -  [How Live Nation Realized Business Value with AWS](https://aws.amazon.com/fr/enterprise/executive-insights/how-live-nation-realized-business-value-with-aws/)
 
-------------
-Pricing
-------------
+
+# Pricing
+
 -  [Mieux comprendre les prix des services du cloud Amazon | AWS](https://aws.amazon.com/fr/pricing/?nc2=h_ql_pr_ln)
 
 -  [AWS Pricing Calculator](https://calculator.aws/#/)
 
 -  [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html)
 
-------------
-AWS more
-------------
+
+# AWS more
+
 -  [All Things Distributed](https://allthingsdistributed.com/)
 
 -  [Upskill with AWS Cloud Training](https://pages.awscloud.com/Digital-Learning-Training-Certification.html)
@@ -263,9 +289,9 @@ AWS more
 
 -  [Machine learning gratuit](https://aws.amazon.com/fr/free/machine-learning/)
 
-------------
-Independant analysis
-------------
+
+# Independant analysis
+
 -  [Rapports d'analystes sur AWS](https://aws.amazon.com/fr/resources/analyst-reports/#)
 
 -  [Gartner: Magic Quadrant for Cloud Infrastructure as a Service, Worldwide](https://pages.awscloud.com/Gartner-Magic-Quadrant-for-Infrastructure-as-a-Service-Worldwide.html)
@@ -288,9 +314,9 @@ Independant analysis
 
 -  [Amazon's Arm-based Graviton2 Against AMD and Intel: Comparing Cloud Compute](https://www.anandtech.com/show/15578/cloud-clash-amazon-graviton2-arm-against-intel-and-amd)
 
-------------
-AWS Partner Network
-------------
+
+# AWS Partner Network
+
 -  [Find an APN Partner](https://partners.amazonaws.com/)
 
 -  [Réseau de partenaires AWS](https://aws.amazon.com/fr/partners/)
@@ -333,9 +359,9 @@ AWS Partner Network
 
 -  [Endpoint detection and response | AWS Marketplace](https://aws.amazon.com/marketplace/solutions/security/endpoint-detection)
 
-------------
-Amzn AWS related
-------------
+
+# Amzn AWS related
+
 -  [Service de paiement en ligne | Amazon Pay](https://pay.amazon.fr/)
 
 -  [Amazon.jobs: Help us build Earth’s most customer-centric company.](https://www.amazon.jobs/fr/)
@@ -362,9 +388,9 @@ Amzn AWS related
 
 -  [Amazon Science Homepage](https://www.amazon.science/)
 
-------------
-Amzn pub
-------------
+
+# Amzn pub
+
 -  [Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more](https://www.amazon.com/)
 
 -  [Comment Etre Vendeur sur Amazon | Amazon.fr](https://services.amazon.fr/)
@@ -459,9 +485,9 @@ Amzn pub
 
 -  [The Long Now Foundation - Fostering Long-Term Thinking](http://longnow.org/)
 
-------------
-principles & standards
-------------
+
+# principles & standards
+
 -  [KISS principle - Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 
 -  [Don't repeat yourself - Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
@@ -492,9 +518,9 @@ principles & standards
 
 -  [Leadership Principles - Amazon.jobs](https://www.amazon.jobs/principles)
 
-------------
-Architecture
-------------
+
+# Architecture
+
 -  [Exemples d'architectures de référence, diagrammes et bonnes pratiques](https://aws.amazon.com/fr/architecture/)
 
 -  [Livres blancs et guides AWS](https://aws.amazon.com/fr/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc)
@@ -525,9 +551,9 @@ Architecture
 
 -  [CAF_Completed_Action_Plan](https://d1.awsstatic.com/professional-services/caf/CAF_Completed_Action_Plan.e120704465f86b86d1509dee481e9e5e995d9aaa.png)
 
-------------
-Whitepapers & guides
-------------
+
+# Whitepapers & guides
+
 -  [Overview of Amazon Web Services - Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
 
 -  [AWS | Ramp-Up Guides](https://pages.awscloud.com/AWS-Traincert_Ramp-up_Guides.html)
@@ -564,9 +590,9 @@ Whitepapers & guides
 
 -  [Accessing_VPC_Endpoints_from_Remote_Networks.pdf](https://d0.awsstatic.com/aws-answers/Accessing_VPC_Endpoints_from_Remote_Networks.pdf)
 
-------------
-Ressources
-------------
+
+# Ressources
+
 -  [AWS Command Line Interface](https://aws.amazon.com/cli/)
 
 -  [Mise en route sur Amazon Web Services (AWS)](https://aws.amazon.com/fr/getting-started/)
@@ -649,9 +675,9 @@ Ressources
 
 - [Application Load Balancers Now Support Multiple TLS Certificates With Smart Selection Using SNI](https://aws.amazon.com/fr/blogs/aws/new-application-load-balancer-sni/)
 
-------------
-Workshops & more
-------------
+
+# Workshops & more
+
 -  [AWS Cloud Practitioner Essentials](https://aws.amazon.com/fr/training/course-descriptions/cloud-practitioner-essentials/)
 
 -  [AWSome Day Online 2020_Module 1: Introduction to the AWS Cloud](https://www.slideshare.net/AmazonWebServices/awsome-day-online-2020module-1-introduction-to-the-aws-cloud)
@@ -770,9 +796,9 @@ Workshops & more
 
 -  [aws-samples/aws-serverless-saas-layers: A set of labs that illustrates the concept of multi-tenancy. Lambda layers is used to introduce reusable service constructs and abstract multi-tenancy from S...](https://github.com/aws-samples/aws-serverless-saas-layers)
 
-------------
-Solutions & mores
-------------
+
+# Solutions & mores
+
 -  [Solution de sauvegarde cloud et cloud sécurisé | AWS](https://aws.amazon.com/fr/solutions/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc)
 
 -  [AWS IoT Solution Repository - Amazon Web Services](https://aws.amazon.com/fr/iot/solutions/?nc=sn&loc=3&dn=1)
@@ -845,9 +871,9 @@ Solutions & mores
 
 -  [Ops Automator | Mises en oeuvre | Solutions AWS](https://aws.amazon.com/fr/solutions/implementations/ops-automator/)
 
-------------
-Cost Optimization
-------------
+
+# Cost Optimization
+
 -  [Économie du Cloud – Amazon Web Services (AWS)](https://aws.amazon.com/fr/economics/)
 
 -  [Gestion des coûts AWS](https://aws.amazon.com/fr/aws-cost-management/)
@@ -878,9 +904,9 @@ Cost Optimization
 
 -  [How to build a chargeback/showback model for Savings Plans using the CUR | AWS Cost Management](https://aws.amazon.com/fr/blogs/aws-cost-management/how-to-build-a-chargeback-showback-model-for-savings-plans-using-the-cur/)
 
-------------
-News
-------------
+
+# News
+
 -  [Nouveautés AWS – Innovations cloud et actualités](https://aws.amazon.com/fr/new/)
 
 -  [AWS News Blog](https://aws.amazon.com/fr/blogs/aws/)
@@ -889,9 +915,9 @@ News
 
 -  [AWS Articles](https://aws.amazon.com/fr/articles/)
 
-------------
-Videos
-------------
+
+# Videos
+
 -  [Containers From The Couch](https://containersfromthecouch.com/)
 
 -  [Amazon Web Services - YouTube](https://www.youtube.com/user/AmazonWebServices)
@@ -972,9 +998,9 @@ Videos
 
 -  [(114) AWS re:Invent 2019: [REPEAT 2] Architecture patterns for multi-region active-active (ARC213-R2) - YouTube](https://www.youtube.com/watch?v=3K9AzSrCmiQ)
 
-------------
-AWS Articles & more
-------------
+
+# AWS Articles & more
+
 -  [AWS Blog](https://aws.amazon.com/blogs/)
 
 -  [6 Strategies for Migrating Applications to the Cloud | AWS Cloud Enterprise Strategy Blog](https://aws.amazon.com/fr/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
@@ -1135,9 +1161,8 @@ AWS Articles & more
 
 -  [Running Cost-effective queue workers with Amazon SQS and Amazon EC2 Spot Instances | AWS Compute Blog](https://aws.amazon.com/fr/blogs/compute/running-cost-effective-queue-workers-with-amazon-sqs-and-amazon-ec2-spot-instances/)
 
-------------
-/!\ not-AWS official / not supported by AWS
-------------
+
+# /!\ not-AWS official / not supported by AWS
 
 -  [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 
@@ -1209,9 +1234,9 @@ AWS Articles & more
 
 -  [SLA & Uptime calculator: How much downtime corresponds to 99.9 % uptime](https://uptime.is/)
 
-------------
-lol (obviously not AWS official content)
-------------
+
+# lol (obviously not AWS official content)
+
 -  [xkcd: Recurring Nightmare](https://xkcd.com/)
 
 -  [Les Joies du Code](https://lesjoiesducode.fr/)
