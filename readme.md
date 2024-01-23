@@ -289,6 +289,7 @@ chapter | description
 
 -  [Machine learning gratuit](https://aws.amazon.com/fr/free/machine-learning/)
 
+-  [Reddit: Amazon Web Services (AWS): S3, EC2, SQS, RDS, DynamoDB, IAM, CloudFormation, Route 53, VPC and more](https://www.reddit.com/r/aws/wiki/index)
 
 # Independant analysis
 
